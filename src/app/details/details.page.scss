@@ -1,0 +1,28 @@
+.title{
+    font-size: 20px;
+font-weight: 550px;
+
+
+
+}
+.author, .source{
+    font-size: 16px;
+    font-weight: 400;
+    color: grey;
+    margin: 4px 0;
+    font-style: italic;
+    
+
+}
+.author{
+    margin-top: 10px;
+}
+img{
+    border-radius: 14px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.description{
+    font-size: 17px;
+    font-weight: 500;
+}
